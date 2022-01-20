@@ -32,7 +32,7 @@ data = pd.read_csv('IMDB-Dataset.csv')
 print(data.shape) 
 data.head()
 ```
-Output :
+
 ![image](https://user-images.githubusercontent.com/47454368/150291298-c485436f-8876-4903-9cb1-8b2dff423e60.png)
 
 ```py
